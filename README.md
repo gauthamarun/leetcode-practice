@@ -3,7 +3,7 @@
 Daily DSA solutions as part of my interview prep 
 
 ## Progress
-- Arrays: 
+- Arrays: 4
 - Binary:
 - DP:
 - Graph:
