@@ -7,6 +7,4 @@ class Solution(object):
                 min_price = i
             if i-min_price>profit:
                 profit = i-min_price
-        return profit            
-
-        
+        return profit                  

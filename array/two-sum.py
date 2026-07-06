@@ -5,5 +5,4 @@ class Solution(object):
             comp = target - num
             if comp in seen:
                 return [seen[comp],i]
-
             seen[num]=i    
