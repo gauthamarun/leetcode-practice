@@ -5,5 +5,5 @@ Daily DSA solutions as part of my interview prep
 ## Progress
 - Arrays: 10
 - Binary: 5
-- DP: 9
+- DP: 10
 - Graph:
