@@ -6,4 +6,4 @@ Daily DSA solutions as part of my interview prep
 - Arrays: 10
 - Binary: 5
 - DP: 11
-- Graph: 1
+- Graph: 2
