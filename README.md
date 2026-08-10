@@ -7,5 +7,5 @@ Daily DSA solutions as part of my interview prep
 - Binary: 5
 - DP: 11
 - Graph: 5
-- Intervals: 1
+- Intervals: 2
 
