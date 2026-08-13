@@ -9,5 +9,5 @@ Daily DSA solutions as part of my interview prep
 - Graph: 5
 - Intervals: 3
 - Linked List - 6
-- Matrix - 3
+- Matrix - 4
 
